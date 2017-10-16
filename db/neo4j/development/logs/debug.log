@@ -1,0 +1,1 @@
+2017-10-16 00:06:30.917+0000 WARN [o.n.i.p.PageCache] The dbms.memory.pagecache.size setting has not been configured. It is recommended that this setting is always explicitly configured, to ensure the system has a balanced configuration. Until then, a computed heuristic value of 20580026368 bytes will be used instead. 
